@@ -1,0 +1,2 @@
+1) during push it show error of error: unable to rewind rpc post data
+to relove it i use command git config — global http.postBuffer 157286400
